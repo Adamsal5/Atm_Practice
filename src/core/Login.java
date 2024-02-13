@@ -1,4 +1,6 @@
-public class Logine {
+package core;
+
+public class Login {
 
     //username
 
